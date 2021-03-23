@@ -1033,10 +1033,10 @@ body {
     @media only screen and (max-width: 56.25em) {
       .booking__form {
         width: 100%; } }
-    @media only screen and (max-width: 22em) {
+    @media only screen and (max-width: 25em) {
       .booking__form {
         width: 100%;
-        padding: 1.5rem; } }
+        padding: 1.6rem 1.3rem; } }
 
 /*
 COLORS:
